@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Sahil Verma</h1>
 <h5 align="center">
-I’m a Pre Final -year student pursuing a Bachelors’s in Computer science Engineering, from UIET Panjab University Chandigarh. I am a  enthusiast, web developer, and competitive Programmer . 
+I’m a Pre Final -year student pursuing a Bachelors’s in Computer science Engineering, from UIET Panjab University Chandigarh. I am enthusiastic in web development, competitive Programmering And ml. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilverma3120&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22sahilverma3120" /> </p>
 <p>
