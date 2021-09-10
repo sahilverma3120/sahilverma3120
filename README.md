@@ -11,7 +11,7 @@ I’m a Pre Final -year student pursuing a Bachelors’s in Computer science Eng
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilverma3120&theme=radical">
 <img align="right" height="350" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ishikkkkaaaa&count_private=true&theme=radical&show_icons=true" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=sahilverma3120&count_private=true&theme=radical&show_icons=true" />
 - 📫 How to reach me **sahilvermauiet@gmail.com**
 <br><br>
 <hr>
