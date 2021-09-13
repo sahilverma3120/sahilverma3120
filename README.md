@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="45"
+        height="45"
          width="45" />, I'm Sahil Verma</h1>
 <h5 align="center">
 I’m a Final year student pursuing a Bachelors’s in Computer science Engineering, from UIET Panjab University Chandigarh. I am enthusiastic in web development,Data Structures & Algorithms, competitive Programmering And machine learning. 
