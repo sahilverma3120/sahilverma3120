@@ -32,5 +32,5 @@ I’m a Final year student pursuing a Bachelors’ Degree in Computer science An
 
 
 <p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/sahilverma3120/sahilverma3120/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
