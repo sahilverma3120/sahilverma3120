@@ -25,10 +25,7 @@ I’m a Final year student pursuing a Bachelors’ Degree in Computer science An
 <a href="https://www.linkedin.com/in/sahilverma01" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt=" Sahil  Verma" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/sahil786121" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/facebook.png" alt="" height="50" width="50" /></a>
 </p>
-
 <hr>
-
-
 <p align="center">
   <img src="https://github.com/sahilverma3120/sahilverma3120/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
